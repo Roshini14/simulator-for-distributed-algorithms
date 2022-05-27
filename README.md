@@ -3,7 +3,7 @@ A simple simulator for basic algorithms in distributed algorithms including cras
 
 The repositories include configuration file, input test files and example algorithms.
 
-############################################
+
 
 input test files
 --- file1.txt ## disconnected graph
@@ -11,7 +11,7 @@ input test files
 --- file3.txt
 --- file4.txt ## completely connected network
 
-############################################
+
 
 Steps to run 
 
